@@ -2,3 +2,4 @@ git clone https://github.com/Raquel1403/HLC.git
 git checkout -b rama_v1
 desde local
 git remoto
+nueva línea desde rama_v2
