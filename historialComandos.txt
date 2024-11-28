@@ -3,3 +3,4 @@ git checkout -b rama_v1
 desde local
 git remoto
 nueva línea desde rama_v2
+Haciendo stash desde rama_v1
