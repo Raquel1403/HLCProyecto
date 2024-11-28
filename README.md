@@ -20,7 +20,7 @@ En esta práctica, aprenderemos a usar comandos básicos de Git y GitHub, centr�
 
 **Clave SSH**
 ~~~
-ssh-keygen -t ed25519 -C "tu_correo@example.com"
+ssh-keygen -t ed25519 -C raquel.aguilarcastellanos@iesvalleinclan.es
 cat ~/.ssh/id_ed25519.pub
 ~~~
 
