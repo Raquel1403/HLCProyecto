@@ -20,7 +20,7 @@ En esta práctica, aprenderemos a usar comandos básicos de Git y GitHub, centr�
 ### Paso 1: Clonar el Repositorio
 Empezamos por clonar el repositorio usando git clone, que crea una copia local del repositorio remoto, incluyendo el historial y las ramas.   
 ~~~
-git clone https://github.com/Raquel1403/HLC.git
+git clone https://github.com/Raquel1403/HLCProyecto.git
 ~~~
 ### Paso 2: Crear una Rama Nueva
 
