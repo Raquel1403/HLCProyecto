@@ -17,6 +17,13 @@ En esta práctica, aprenderemos a usar comandos básicos de Git y GitHub, centr�
 - **Creación de Pull-Request**<br>
 - **Conclusiones**
 ---
+
+**Clave SSH**
+~~~
+ssh-keygen -t ed25519 -C "tu_correo@example.com"
+cat ~/.ssh/id_ed25519.pub
+~~~
+
 ### Paso 1: Clonar el Repositorio
 Empezamos por clonar el repositorio usando git clone, que crea una copia local del repositorio remoto, incluyendo el historial y las ramas.   
 ~~~
